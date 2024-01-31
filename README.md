@@ -11,14 +11,12 @@ Welcome to my GitHub profile! I'm Shneor, a passionate programmer with a love fo
 - 💬 Ask me about anything you want
 - 📫 You can reach me by Email: [770elmo@gmail.com](mailto:770elmo@gmail.com)
 
-## Services I Offer
+## Freelance and Contract Work
 
 - **Software Development**: Building REST APIs, Python packages, Cython/Rust/Go extensions for improved performance.
 - **Automation**: Developing scripts and tools to automate repetitive tasks and streamline workflows.
-- **Web Scraping**: Gather data from the web whether it's using public APIs or parsing HTML from a browser.
+- **Web Scraping**: Gather data from the web whether it's using a public API, or parsing HTML from a browser.
 - **Consultation**: Providing Python tutoring, and consultation on best practices.
-
-## Freelance and Contract Work
 
 I'm open to freelancing opportunities and contract work. If you have a project you'd like to collaborate on, feel free to reach out!
 
