@@ -13,13 +13,13 @@ Welcome to my GitHub profile! I'm Shneor, a passionate programmer with a love fo
 
 ## Freelance and Contract Work
 
-- **Software Development**: Building REST APIs, Python packages, Cython/Rust/Go extensions for improved performance.
-- **Automation**: Developing scripts and tools to automate repetitive tasks and streamline workflows.
+I'm open to freelancing opportunities and contract work. If you have a project you'd like to collaborate on, feel free to reach out!
+These are some of the services I offer:
+
+- **Software Development**: Building REST APIs, creating Python packages, Cython/Rust/Go extensions for improved performance.
+- **Automation**: Developing scripts and tools to automate repetitive tasks.
 - **Web Scraping**: Gather data from the web whether it's using a public API, or parsing HTML from a browser.
 - **Consultation**: Providing Python tutoring, and consultation on best practices.
-
-I'm open to freelancing opportunities and contract work. If you have a project you'd like to collaborate on, feel free to reach out!
-
 
 <!--
 **shner-elmo/shner-elmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
