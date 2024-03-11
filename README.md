@@ -1,25 +1,10 @@
-# Hi there! 👋
 
-Welcome to my GitHub profile! I'm Shneor, a passionate programmer with a love for building things and solving problems. Here you'll find a collection of my projects in Python, Rust, and Go.
-
-## About Me
-
-- 🌍 Based in Milan, Italy (originally from New York)
+- 🌍 Based in Italy
 - 💻 Self-taught programmer
 - 🚀 Currently mastering Python and learning Rust and Go
 - 🏃‍♂️ Enthusiastic about running, snowboarding, and e-skating
 - 💬 Ask me about anything you want
-- 📫 You can reach me by Email: [770elmo@gmail.com](mailto:770elmo@gmail.com)
-
-## Freelance and Contract Work
-
-I'm open to freelancing opportunities and contract work. If you have a project you'd like to collaborate on, feel free to reach out!
-These are some of the services I offer:
-
-- **Software Development**: Building REST APIs, creating Python packages, Cython/Rust/Go extensions for improved performance.
-- **Automation**: Developing scripts and tools to automate repetitive tasks.
-- **Web Scraping**: Gather data from the web whether it's using a public API, or parsing HTML from a browser.
-- **Consultation**: Providing Python tutoring, and consultation on best practices.
+- 📫 For freelance and contract work you can reach me by Email: [770elmo@gmail.com](mailto:770elmo@gmail.com)
 
 <!--
 **shner-elmo/shner-elmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
